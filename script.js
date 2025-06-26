@@ -21,7 +21,7 @@ const data = [
     word: 'steep',
     prompt: 'The road was much more ___ than we expected.',
     answer: 'steep',
-    hint: 'Difficult to climb because it goes up quickly.'
+    hint: 'Hard uphill.'
   },
   {
     word: 'abroad',
@@ -51,7 +51,7 @@ const data = [
     word: 'explored',
     prompt: 'We have ___ every part of the city on foot.',
     answer: 'explored',
-    hint: 'We visited and looked at different areas.'
+    hint: 'We visited different areas.'
   },
   {
     word: 'to hit the road',
